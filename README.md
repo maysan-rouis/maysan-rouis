@@ -12,4 +12,4 @@ Want to buy me a Ko-fi ?
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V4S821PSBN)
 
-[My Linktr.ee](https://linktr.ee/maysanishaq.rouis)
+[![Linktree](https://img.shields.io/badge/Linktree-121212?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maysanishaq.rouis)
